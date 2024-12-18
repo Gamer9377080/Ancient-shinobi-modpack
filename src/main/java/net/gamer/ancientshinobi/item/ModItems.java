@@ -32,6 +32,7 @@ public class ModItems {
             entries.add(RAWSAPPHIRE);
             entries.add(CUTSAPPHIRE);
             entries.add(RAWTOPAZ);
+            entries.add(CUTTOPAZ);
             entries.add(CUTRUBY);
             entries.add(RAWPLATINUM);
             entries.add(PLATINUMINGOT);
