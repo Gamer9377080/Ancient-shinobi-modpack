@@ -6,5 +6,9 @@
   "item.ancientshinobi.raw_topaz": "Raw Topaz",
   "item.ancientshinobi.cut_topaz": "Raw Topaz",
   "item.ancientshinobi.raw_platinum": "Raw Platinum",
-  "item.ancientshinobi.platinum_ingot": "Platinum"
+  "item.ancientshinobi.platinum_ingot": "Platinum",
+  "item.ancientshinobi.raw_jade": "Raw Jade",
+  "item.ancientshinobi.cut_jade": "Cut Jade",
+  "item.ancientshinobi.raw_azure": "Raw Azure",
+  "item.ancientshinobi.cut_azure": "Cut Azure"
 }
